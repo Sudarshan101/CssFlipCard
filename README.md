@@ -1,18 +1,5 @@
 # Flip Card Effect using Css3
 
-#HTML CODE
-
-<pre><code><h2>Mouse over the below image to see flip effect!</h2>
-		<div class="flip-container">
-		  <div class="flipper">
-			<div class="front">
-			</div>
-			<div class="back">
-			</div>
-		  </div>
-		</div></code></per>
-
-
 #CSS CODE
 
 <pre><code>
