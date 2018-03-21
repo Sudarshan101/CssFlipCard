@@ -81,4 +81,4 @@
 
 
 #Preview
-<>
+<img src="https://github.com/Sudarshan101/CssFlipCard/blob/master/flipcard.gif" style="width:100%;" />
